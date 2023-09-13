@@ -1,7 +1,7 @@
 <h1>Finance App</h1>
 
 <h3>
-this project i creat an Finance App UI and backend
+In this project, i creat an Finance App UI and backend.
 </h3>
 <hr>
 <div style = ""> 
