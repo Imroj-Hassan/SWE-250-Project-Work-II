@@ -164,7 +164,7 @@ class _HomeState extends State<Home> {
                           ),
                         ),
                         Text(
-                          'Enjelin Morgeana',
+                          'Imroj Hassan Shafi',
                           style: TextStyle(
                             fontWeight: FontWeight.w600,
                             fontSize: 20,
@@ -226,7 +226,7 @@ class _HomeState extends State<Home> {
                   child: Row(
                     children: [
                       Text(
-                        '\$ ${total()}',
+                        '৳'+' ${total()}',
                         style: TextStyle(
                           fontWeight: FontWeight.bold,
                           fontSize: 25,
@@ -296,7 +296,7 @@ class _HomeState extends State<Home> {
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: [
                       Text(
-                        '\$ ${income()}',
+                        '৳'+' ${income()}',
                         style: TextStyle(
                           fontWeight: FontWeight.w600,
                           fontSize: 17,
@@ -304,7 +304,7 @@ class _HomeState extends State<Home> {
                         ),
                       ),
                       Text(
-                        '\$ ${expenses()}',
+                        '৳'+'${expenses()}',
                         style: TextStyle(
                           fontWeight: FontWeight.w600,
                           fontSize: 17,
