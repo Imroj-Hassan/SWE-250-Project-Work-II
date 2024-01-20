@@ -1,7 +1,7 @@
 <h1>Money Management Finance App</h1>
 
 <h3>
-In this project, i creat an Money Management Finance App UI.
+In this project, I creat an Money Management Finance App UI.
 </h3>
 <hr>
 <div style = ""> 
